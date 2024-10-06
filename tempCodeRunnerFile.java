@@ -1,1 +1,3 @@
- // s1.forEach(n -> System.out.println(s1));
+public void roti() {
+    System.out.println("roti1");
+    }
